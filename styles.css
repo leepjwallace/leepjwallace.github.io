@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
     font-family: cascadia code;
     src: url(/web/20210411161405im_/https://leewallace.me/fonts/cascadia-code/CascadiaCode-Regular.eot);
     src: url(/web/20210411161405im_/https://leewallace.me/fonts/cascadia-code/CascadiaCode-Regular.eot#iefix)format('embedded-opentype'),url(/web/20210411161405im_/https://leewallace.me/fonts/cascadia-code/CascadiaCode-Regular.woff2)format('woff2'),url(/web/20210411161405im_/https://leewallace.me/fonts/cascadia-code/CascadiaCode-Regular.woff)format('woff'),url(/web/20210411161405im_/https://leewallace.me/fonts/cascadia-code/CascadiaCode-Regular.ttf)format('truetype'),url(/web/20210411161405im_/https://leewallace.me/fonts/cascadia-code/CascadiaCode-Regular.svg#CascadiaCode-Regular)format('svg');
@@ -28,7 +28,7 @@
     src: url(/web/20210411161405im_/https://leewallace.me/assets/css/fonts/ibm-plex/IBMPlexSerif-SemiBold.eot#iefix)format('embedded-opentype'),url(/web/20210411161405im_/https://leewallace.me/assets/css/fonts/ibm-plex/IBMPlexSerif-SemiBold.woff2)format('woff2'),url(/web/20210411161405im_/https://leewallace.me/assets/css/fonts/ibm-plex/IBMPlexSerif-SemiBold.woff)format('woff'),url(/web/20210411161405im_/https://leewallace.me/assets/css/fonts/ibm-plex/IBMPlexSerif-SemiBold.ttf)format('truetype'),url(/web/20210411161405im_/https://leewallace.me/assets/css/fonts/ibm-plex/IBMPlexSerif-SemiBold.svg#IBMPlexSerif-SemiBold)format('svg');
     font-weight: 600;
     font-style: normal
-}
+} */
 
 *,:after,:before {
     -webkit-box-sizing: border-box;
